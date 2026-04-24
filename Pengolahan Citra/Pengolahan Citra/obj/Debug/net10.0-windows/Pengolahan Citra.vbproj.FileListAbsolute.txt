@@ -1,0 +1,19 @@
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan_Citra.Form1.resources
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan_Citra.FormBorder.resources
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan_Citra.FormHistogram.resources
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan_Citra.FormWatermark.resources
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan Citra.vbproj.GenerateResource.cache
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan Citra.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan Citra.AssemblyInfoInputs.cache
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan Citra.AssemblyInfo.vb
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan Citra.vbproj.CoreCompileInputs.cache
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\bin\Debug\net10.0-windows\Pengolahan Citra.exe
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\bin\Debug\net10.0-windows\Pengolahan Citra.deps.json
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\bin\Debug\net10.0-windows\Pengolahan Citra.runtimeconfig.json
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\bin\Debug\net10.0-windows\Pengolahan Citra.dll
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\bin\Debug\net10.0-windows\Pengolahan Citra.pdb
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan Citra.dll
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\refint\Pengolahan Citra.dll
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan Citra.pdb
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\Pengolahan Citra.genruntimeconfig.cache
+D:\semester 6\PROGDESK\Pengolahan Citra\Pengolahan Citra\obj\Debug\net10.0-windows\ref\Pengolahan Citra.dll
